@@ -1,0 +1,54 @@
+Dear Students,
+
+we are giving you five HMI assignments, each will have one question for 5 marks. the topics and reference links are given below. (you are free to refer any course content)
+
+//Assignment 2.1 and 2.2 questions based on module 5 (select any 2) 
+1) Mobile Ecosystem: platforms https://learndatamodeling.com/blog/what-is-mobile-ecosystem/
+2) Understanding Mobile 2.0, https://readwrite.com/2006/12/11/understanding_mobile_2/?__cf_chl_jschl_tk__=fe6668800335ec0317e569733489717afa6d8a86-1587192241-0-AXtv3RFvnRNM7iKhlzQncH3aCTlwnMvNf8mxxTu9SJ05I-Tdtq7eJSfB1UrPeX0aL09_CVHrajdLQQqluVf5OXhpLGbnoJmF1m8wsiY98mlVL61FexGVaR1Vt8ftlEDc1O1lQ_Co1FJw5vyTAkA5cFh1f1zt5L-AEAvgO5Fya0B9vDIMCEBOcIMILKuWOo1qiP4g57lB2stFJ74nAHxxjkLnKVXUfmJKdQzsrSjl-graq2Y5aNMXNsq_Pj5V1_oN1xS2G9gDToEktVZmp3t9F9ghVK2RWbdnlMa7gO8cGUkRj6xQersiYE_oyDuhz6qAeeX8S0oElgOLNymCd6tlfk-WJUfIKxIq9KrWBrF94KuMKjioVJThHcd_ENdI1HIeMA
+3) Necessary Elements For Designing A Perfect Mobile App User Interface, https://appsamurai.com/6-necessary-elements-for-designing-a-perfect-mobile-app-user-interface/
+
+//Assignment 2.3, 2.4 and 2.5 questions (select any 3)
+Following are the assignment questions to be solve for submission of HMI from Module number 2 and 6. Attempt any 3 questions out of 5. Each question carry 5 marks.
+1) Explain the goal directed design process in detail.
+2) What are the factors that are to be considered to choose colours.
+3) Distinguish various types of Windows.
+4) Analyse, role of typical Human interaction speed in HMI.
+5) Designing for visually impaired, justify.
+
+
+Start preparation.
+You have to submit subjective answers before 23/4/20, 12 pm.
+you can select any two questions from module 5 and any 3 questions from module 2 and 6, as per your choice .
+
+the marks distribution is each question will be for 5 marks, where 3 marks for target content and 2 marks for Plagiarism.
+
+
+
+Submission Guidelines:
+1) File name will be DIV_SAPID_HMI_2.1_2.5 e.g.,  A_60004160072_HMI_2.1_2.5
+2) File Format is PDF
+3) each file will have 6 sections as
+	3.1) first section will have ur details in the following order as Full Name, DIV, SAP_ID, SUBJECT, Assignment number, Date. 				
+								
+								Example: Name: Jash Kalpesh Sankhe
+									 Div: A, SAP_ID: 60004160071
+									 Sub: HMI, Assignment: 2.1 and 2.2
+									 Date: 19/04/2020.
+	3.2) second section will have question and answer of the first question
+	3.3) third section will have question and answer of the second question
+	3.4) forth section will have question and answer of the third question
+	3.5) fifth section will have question and answer of the fourth question
+	3.6) sixth section will have question and answer of the fifith question
+	
+
+
+
+4) write references below in the file
+5) use TNR font of size 12. for all text you use. line spacing will be 1.15
+6) A div mail the pdf file to pratikkanani94@gmail.com and B div will mail it to apatade@gmail.com
+
+
+								
+Note: submissions made after 23/04/20 will be evaluated out of 24
+      submissions made after 24/04/20 will be evaluated out of 23
+      and after 25/04/20 submissions will not be considered.
